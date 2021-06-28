@@ -1,5 +1,8 @@
 # ChatHere
 
+A Web Application which helps you chat with your friends and family members in Real Time using web sockets.
+
+
 ## Instructions
 
 1. Clone the repository into your local system.
@@ -17,4 +20,4 @@
 
 ## Tech Stack
 
-Javascript, ReactJS, NodeJS.
+Javascript, ReactJS, Socket.io Library ( Web Sockets ), NodeJS.
