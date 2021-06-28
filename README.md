@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Clone the repository into your local system
+1. Clone the repository into your local system.
 2. To install the packages do `npm install` on both the Client and Server Directories.
 3. To run the server, `cd server` and then run `node server`.
 4. To run the website `cd client` and enter the command `npm start`.
