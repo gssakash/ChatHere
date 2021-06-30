@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="public/chat-bubble.png" />
+  <img src="public/chat-bubble.PNG" />
 </p>
 A Web Application which helps you chat with your friends and family members in Real Time using web sockets.
 
