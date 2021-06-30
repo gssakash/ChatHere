@@ -8,7 +8,7 @@
 A Web Application which helps you chat with your friends and family members in Real Time using web sockets.
 
 
-## Instructions
+## Steps to Run
 
 1. Clone the repository into your local system.
 2. To install the packages do `npm install` on both the Client and Server Directories.
