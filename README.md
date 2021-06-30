@@ -5,7 +5,10 @@
 <p align="center">
   <img src="client/public/chat-bubble.png" />
 </p>
+
+<p align="center">
 A Web Application which helps you chat with your friends and family members in Real Time using web sockets.
+</p>
 
 
 ## Steps to Run
