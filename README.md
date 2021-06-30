@@ -1,5 +1,10 @@
-# ChatHere
+<h1 align="center" >
+  <b> ChatHere </b>
+</h1>
 
+<p align="center">
+  <img src="public/chat-bubble.png" />
+</p>
 A Web Application which helps you chat with your friends and family members in Real Time using web sockets.
 
 
